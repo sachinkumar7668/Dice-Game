@@ -1,0 +1,3 @@
+Dice numbers guessing game using java.
+Game should show you the sum of both dice numbers and you should be guessed the numbers of dice-1 and dice-2.
+Enjoy te game... 
